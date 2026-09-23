@@ -1,4 +1,4 @@
-a = 5                                                        # This will be stored in the memory let it be like a container, means inside of this container the value will be stored, and whenever we want to access it, we must have use the name of it like "a".
+a = 5                                                        # This will be stored in the memory let it be like a container, means inside of this container the value will be stored, and whenever we want to access it, we must have to use the name of it like "a".
 
 
 b = "Pranab"                                                 # This Pranab going to be store in the shape of array, means all characters will be in continuous manner, at index(0)->P, index(1)->r, index(2)->a and so on, this is called positive indices.
