@@ -26,9 +26,8 @@ print(type(complex))                            # We can define complex number i
 print(complex.real)                             # In this way we can access to the real value of the complex number.
 print(complex.imag)                             # In this way we can access to the imaginary part.
 
-
-                                                # Rules of defining a varibale: variable start with a letter(Alphabet) or underscore character and it should not be a keyword.
-5 = a                                           # We can't start with the digit/number, because it is an invalid way.
+                                                
+5 = a                                           # Rules of defining a varibale: variable start with a letter(Alphabet) or underscore character and it should not be a keyword, So we can't start with the digit/number, because it is an invalid way.
 data-science = "PWSkills"                       # We can't use like this while defining variable, like in here using the subtract symbol.
 data science course = "PWSkills"                # We can't also use the space between the words, while defining the variable.
 @abc = 2.3                                      # We can't start with the special characters also while defining the variable.
