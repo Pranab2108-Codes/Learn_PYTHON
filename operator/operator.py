@@ -111,4 +111,4 @@ print(2+3-8)                                            # Execution of python st
 
 
 print((5+3) - 4)                                        # Now we will know about order of precedence in python.
-print(4 - (5+3))                                        # In the precedence order, bracket/paranthesis always comes 1st, that's why here also 1st it got calculate which is inside of the paranthesis.
+print(4 - (5+3))                                        # In the precedence order, bracket/parenthesis always comes 1st, that's why here also 1st it got calculate which is inside of the parenthesis.
