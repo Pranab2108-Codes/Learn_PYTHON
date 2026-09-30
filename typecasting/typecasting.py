@@ -6,7 +6,7 @@ print(type('2'))                              # There will be many cases where, 
 a = "2"
 print(type(a))
 b = 3
-a = int(a) + b                                # To change the type of a data, we need to use the typecasting method, we will right the data type in which we want it to be get converted, and the that variable inside of the paranthesis.
+a = int(a) + b                                # To change the type of a data, we need to use the typecasting method, we will right the data type in which we want it to be get converted, and the that variable inside of the parenthesis.
 print(a)
 print(type(a))
 
